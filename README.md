@@ -1,6 +1,6 @@
-# Eskiler
+### Eskiler &#x1F4D7;
 
-Geçmiş zaman olur ki.... (&#x1F49C; OldSchooL)
+Geçmiş zaman olur ki.... (&#x1F49C; OldSchooL &#x1F49C;)
 
 
 
