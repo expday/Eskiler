@@ -2,6 +2,7 @@
 
 Geçmiş zaman olur ki.... (&#x1F49C; OldSchooL &#x1F49C;)
 
+.. Rootkit ..
 
 
 
