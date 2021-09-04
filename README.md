@@ -8,8 +8,11 @@ Geçmiş zaman olur ki.... (&#x1F49C; OldSchooL &#x1F49C;)
 
 
 
-Donate(Bitcoin):
-16r1e7C5Him8eTDyQVrtCmSMyNqruTodyt
+Donate(Bitcoin):  
 
-![](https://github.com/expday/Yazilarim/raw/main/bitcoin-qrcode.png)
+
+127UzCeSJALuyaR46G4bB4gqtFQjJ9t4wZ
+
+
+![](https://github.com/expday/Yazilarim/raw/main/BNC.png)
 
